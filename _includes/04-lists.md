@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* I like to :smile:
+* Comprar cosas para labar la ropa
+  * Detergente
+  * Suavisante :+1:
